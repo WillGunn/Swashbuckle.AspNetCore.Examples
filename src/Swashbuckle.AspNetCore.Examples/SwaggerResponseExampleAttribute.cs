@@ -1,6 +1,5 @@
 using Newtonsoft.Json.Serialization;
 using System;
-using System.Net;
 
 namespace Swashbuckle.AspNetCore.Examples
 {

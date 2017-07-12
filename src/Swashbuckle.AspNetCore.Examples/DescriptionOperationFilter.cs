@@ -4,6 +4,8 @@ using System.Linq;
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
 using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore.SwaggerGen;
+// ReSharper disable once RedundantUsingDirective
+using System.Reflection;
 
 namespace Swashbuckle.AspNetCore.Examples
 {
